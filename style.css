@@ -1,0 +1,19 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*, 
+*::before, 
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #eee;
+  color: #c0c0c0;
+}
+
+
+  
